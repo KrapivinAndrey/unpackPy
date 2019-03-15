@@ -1,0 +1,9 @@
+*.log
+\.vscode/settings\.json
+venv/
+execution/epfBuild/
+execution/epfSrc/
+
+!execution/epfBuild/*.gitkeep
+!execution/epfSrc/*.gitkeep
+!execution/*.gitkeep
